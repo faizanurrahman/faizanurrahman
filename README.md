@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I am **Faizanur Rahman**, I love to deep dive into working domain.
+
+- 🔭 I’m currently working on `Angular` and on `NodeJS`
+- 🌱 I’m currently learning `Angular` and `NodeJS`, As I mentioned I love to deep dive into working field😍
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
+
 <!--
 **faizanurrahman/faizanurrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
