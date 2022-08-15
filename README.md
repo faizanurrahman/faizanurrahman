@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Faizanur Rahman**, I love to deep dive into working domain.
+I am **Faizanur Rahman**.
 
 - 🔭 I’m currently working on `Angular` and on `Spring-Boot`
 <!-- - 🌱 I’m currently learning `Angular` and `NodeJS`, As I mentioned I love to deep dive into working field😍 -->
