@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 Front End Development<br>🙌 Prompt Engineering<br>🏢 Open to Job Opportunities<br>
+👀 Front End Development<br>🙌 Engineer <br>🏢 Open to Job Opportunities<br>
 
 
 ## 🌐 Socials:
